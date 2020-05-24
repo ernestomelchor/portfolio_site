@@ -12,6 +12,7 @@ html {
 
 body {
   font-family: "Source Sans Pro";
+  background-color: #bbe1fa;
 }
 
 .btn-xl {
@@ -349,8 +350,8 @@ a:active {
 }
 
 .btn-secondary {
-  background-color: #ecb807 !important;
-  border-color: #ecb807 !important;
+  background-color: #c1a57b !important;
+  border-color: #c1a57b !important;
   color: #fff !important;
 }
 
@@ -379,5 +380,5 @@ a:active {
 }
 
 .text-secondary {
-  color: #ecb807 !important;
+  color: #c1a57b !important;
 }

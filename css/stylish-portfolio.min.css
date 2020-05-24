@@ -10,6 +10,7 @@ html {
 }
 body {
   font-family: "Source Sans Pro";
+  background-color: #0f4c75;
 }
 .btn-xl {
   padding: 1.25rem 2.5rem;
@@ -17,6 +18,7 @@ body {
 .content-section {
   padding-top: 7.5rem;
   padding-bottom: 7.5rem;
+  background-color: #bbe1fa;
 }
 
 .content-section-heading h2 {
@@ -34,6 +36,7 @@ h5,
 h6 {
   font-weight: 700;
 }
+
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
 }
@@ -301,8 +304,8 @@ a:hover {
   border-color: #155d74 !important;
 }
 .btn-secondary {
-  background-color: #ecb807 !important;
-  border-color: #ecb807 !important;
+  background-color: #c1a57b !important;
+  border-color: #c1a57b !important;
   color: #fff !important;
 }
 .btn-secondary:active,
@@ -325,5 +328,5 @@ a:hover {
   color: #1d809f !important;
 }
 .text-secondary {
-  color: #ecb807 !important;
+  color: #c1a57b !important;
 }
