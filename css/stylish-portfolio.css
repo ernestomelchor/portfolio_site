@@ -130,7 +130,7 @@ h6 {
   height: 100%;
   transition: all 0.4s ease 0s;
   transform: translateX(250px);
-  background: #1d809f;
+  background: #222831;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -337,8 +337,8 @@ a:active {
 }
 
 .btn-primary {
-  background-color: #1d809f !important;
-  border-color: #1d809f !important;
+  background-color: #222831 !important;
+  border-color: #222831 !important;
   color: #fff !important;
 }
 
