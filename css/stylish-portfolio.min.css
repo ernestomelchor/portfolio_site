@@ -261,7 +261,7 @@ h6 {
     clip-path: inset(2rem);
   }
   .portfolio-item:hover .caption {
-    background-color: rgba(29, 128, 159, 0.9);
+    background-color: #212529;
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
   }
@@ -281,7 +281,7 @@ footer.footer .social-link {
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
 }
 footer.footer .social-link:hover {
-  background-color: #ececec;
+  background-color: #212529;
   text-decoration: none;
 }
 a {
@@ -300,8 +300,8 @@ a:hover {
 .btn-primary:active,
 .btn-primary:focus,
 .btn-primary:hover {
-  background-color: #ba9106 !important;
-  border-color: #ba9106 !important;
+  background-color: #212529 !important;
+  border-color: #212529 !important;
 }
 .btn-secondary {
   background-color: #c1a57b !important;
@@ -311,8 +311,8 @@ a:hover {
 .btn-secondary:active,
 .btn-secondary:focus,
 .btn-secondary:hover {
-  background-color: #ba9106 !important;
-  border-color: #ba9106 !important;
+  background-color: #212529 !important;
+  border-color: #212529 !important;
 }
 .btn-dark {
   color: #fff !important;
