@@ -15,6 +15,10 @@ body {
 .btn-xl {
   padding: 1.25rem 2.5rem;
 }
+
+label.contact-form {
+  color: #ececec;
+}
 .content-section {
   padding-top: 7.5rem;
   padding-bottom: 7.5rem;
