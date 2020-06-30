@@ -82,7 +82,7 @@ h6 {
   position: relative;
   display: table;
   width: 100%;
-  height: auto;
+  height: 100vh;
   padding-top: 0rem;
   padding-bottom: 8rem;
   background: linear-gradient(
