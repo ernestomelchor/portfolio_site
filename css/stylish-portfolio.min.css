@@ -9,7 +9,7 @@ html {
   height: 100%;
 }
 body {
-  font-family: "Source Sans Pro";
+  font-family: 'Source Sans Pro';
   background-color: #0f4c75;
 }
 .btn-xl {
@@ -20,8 +20,8 @@ label.contact-form {
   color: #ececec;
 }
 .content-section {
-  padding-top: 7.5rem;
-  padding-bottom: 7.5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
   background-color: #bbe1fa;
 }
 
