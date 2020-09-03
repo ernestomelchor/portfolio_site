@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  font-family: "Source Sans Pro";
+  font-family: 'Source Sans Pro';
   background-color: #bbe1fa;
 }
 
@@ -100,7 +100,7 @@ h6 {
       rgba(255, 255, 255, 0.1) 0%,
       rgba(255, 255, 255, 0.1) 100%
     ),
-    url("../img/mountain-1.jpg");
+    url('../img/bg-masthead.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -226,7 +226,7 @@ h6 {
       rgba(255, 255, 255, 0.1) 0%,
       rgba(255, 255, 255, 0.1) 100%
     ),
-    url("../img/bg-callout.jpg");
+    url('../img/bg-callout.jpg');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
