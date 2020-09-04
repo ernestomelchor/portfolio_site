@@ -2664,41 +2664,41 @@ fieldset:disabled a.btn {
   box-shadow: 0 0 0 0.2rem rgba(130, 138, 145, 0.5);
 }
 
-.btn-success {
+.btn-deployed-site {
   color: #fff;
   background-color: #28a745;
   border-color: #28a745;
 }
 
-.btn-success:hover {
+.btn-deployed-site:hover {
   color: #fff;
   background-color: #218838;
   border-color: #1e7e34;
 }
 
-.btn-success:focus,
-.btn-success.focus {
+.btn-deployed-site:focus,
+.btn-deployed-site.focus {
   box-shadow: 0 0 0 0.2rem rgba(72, 180, 97, 0.5);
 }
 
-.btn-success.disabled,
-.btn-success:disabled {
+.btn-deployed-site.disabled,
+.btn-deployed-site:disabled {
   color: #fff;
   background-color: #28a745;
   border-color: #28a745;
 }
 
-.btn-success:not(:disabled):not(.disabled):active,
-.btn-success:not(:disabled):not(.disabled).active,
-.show > .btn-success.dropdown-toggle {
+.btn-deployed-site:not(:disabled):not(.disabled):active,
+.btn-deployed-site:not(:disabled):not(.disabled).active,
+.show > .btn-deployed-site.dropdown-toggle {
   color: #fff;
   background-color: #1e7e34;
   border-color: #1c7430;
 }
 
-.btn-success:not(:disabled):not(.disabled):active:focus,
-.btn-success:not(:disabled):not(.disabled).active:focus,
-.show > .btn-success.dropdown-toggle:focus {
+.btn-deployed-site:not(:disabled):not(.disabled):active:focus,
+.btn-deployed-site:not(:disabled):not(.disabled).active:focus,
+.show > .btn-deployed-site.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(72, 180, 97, 0.5);
 }
 
@@ -2778,41 +2778,42 @@ fieldset:disabled a.btn {
   box-shadow: 0 0 0 0.2rem rgba(222, 170, 12, 0.5);
 }
 
-.btn-danger {
+.btn-youtube {
   color: #fff;
-  background-color: #dc3545;
+  background-color: #fff;
   border-color: #dc3545;
+  padding: 4rem;
 }
 
-.btn-danger:hover {
+.btn-youtube:hover {
   color: #fff;
   background-color: #c82333;
   border-color: #bd2130;
 }
 
-.btn-danger:focus,
-.btn-danger.focus {
+.btn-youtube:focus,
+.btn-youtube.focus {
   box-shadow: 0 0 0 0.2rem rgba(225, 83, 97, 0.5);
 }
 
-.btn-danger.disabled,
-.btn-danger:disabled {
+.btn-youtube.disabled,
+.btn-youtube:disabled {
   color: #fff;
   background-color: #dc3545;
   border-color: #dc3545;
 }
 
-.btn-danger:not(:disabled):not(.disabled):active,
-.btn-danger:not(:disabled):not(.disabled).active,
-.show > .btn-danger.dropdown-toggle {
+.btn-youtube:not(:disabled):not(.disabled):active,
+.btn-youtube:not(:disabled):not(.disabled).active,
+.show > .btn-youtube.dropdown-toggle {
   color: #fff;
   background-color: #bd2130;
   border-color: #b21f2d;
 }
 
-.btn-danger:not(:disabled):not(.disabled):active:focus,
-.btn-danger:not(:disabled):not(.disabled).active:focus,
-.show > .btn-danger.dropdown-toggle:focus {
+.btn-youtube:not(:disabled):not(.disabled):active:focus,
+.btn-youtube:not(:disabled):not(.disabled).active:focus,
+.show > .btn-youtube.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(225, 83, 97, 0.5);
 }
 
